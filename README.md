@@ -6,6 +6,6 @@ This simple [Mandelbrot Viewer](https://math.hws.edu/eck/js/mandelbrot/MB.html) 
 
 <img align="left" width="400" height="400" src="https://github.com/FractalLAB/collection-mandelbrot/blob/main/uploads/FIxraalXoAECW7t.jpeg"> 
 <img align="center" width="400" height="400" src="https://github.com/FractalLAB/collection-mandelbrot/blob/main/uploads/FIxsBDYXIAYJ0g_.jpeg"> 
-<br />
+<br/>
 <img align="left" width="400" height="400" src="https://github.com/FractalLAB/collection-mandelbrot/blob/main/uploads/FIxtKOeXwAMr1lN.jpeg"> 
 <img align="center" width="400" height="400" src="https://github.com/FractalLAB/collection-mandelbrot/blob/main/uploads/FIxuizfX0AIuqeN.jpeg"> 
